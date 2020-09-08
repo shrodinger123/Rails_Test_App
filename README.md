@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-Complete Ruby on Rails developer
+Complete Ruby on Rails developer by Mashrur Hussain 
